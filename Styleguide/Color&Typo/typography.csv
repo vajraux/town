@@ -1,0 +1,18 @@
+Style, Typeface, Color, Opacity, Size, Alignment, Line, Character
+Items/regular, OpenSans, #ffffff, 1, 12, , 24, -0.30000001192092896
+Items/headers/active, OpenSans-Semibold, #96e28c, 1, 18, , 24, -0.30000001192092896
+Items/click, OpenSans, #96e28c, 1, 12, , , -0.5
+Items/headers, OpenSans-Semibold, #96e28c, 1, 14, , 24, 
+Items/hover, OpenSans, #ffffff, 1, 12, , , -0.5
+@Spacing / Text, HelveticaNeue, #ffffff, 1, 12, center, , 
+@Property / Text, HelveticaNeue, #ffffff, 1, 12, left, , 
+@Size / Text, HelveticaNeue, #ffffff, 1, 12, center, , 
+Shortcuts Menu/Item Menu/Hover, OpenSans-Semibold, #96e28c, 1, 12, , 24, -0.5
+Shortcuts Menu/Item Menu/Regular, OpenSans-Semibold, #ffffff, 1, 12, , 24, -0.5
+Shortcuts Menu/Item Menu/Active, OpenSans-Semibold, #96e28c, 1, 12, , 24, -0.5
+Shortcuts Menu/Item Menu/Regular/OpenMenu, OpenSans-Semibold, #ffffff, 1, 12, , 24, -0.5
+Shortcuts Menu/Headers, OpenSans-Italic, #aaaaaa, 1, 14, , , -0.23333333432674408
+Find Box/Input Text/Regular, OpenSans, #ffffff, 1, 10, , , -0.4166666567325592
+Find Box/Input Text/Press, OpenSans-Semibold, #ffffff, 1, 12, , , -0.5
+Buttons/Shortcuts/Find/ResultsCount, OpenSans-Light, #d0d0d0, 1, 10, , , 
+Style Inventory / Label, HelveticaNeue-Bold, #333333, 1, 15, , , 2
